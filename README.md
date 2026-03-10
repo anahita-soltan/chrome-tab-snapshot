@@ -5,9 +5,7 @@ A macOS AppleScript that snapshots all your open Chrome tabs and generates a bea
 
 A macOS AppleScript that snapshots all your open Chrome tabs and generates a beautiful, interactive HTML viewer — so you can browse, search, and organize them without losing anything.
 
-![Tab Collector](<img width="2964" height="1840" alt="image" src="https://github.com/user-attachments/assets/514ead64-8e65-46f0-a5d6-592eae4ab12a" />)
-<img width="1482" height="920" alt="Tab Collector screenshot" src="https://github.com/user-attachments/assets/514ead64-8e65-46f0-a5d6-592eafe4ab12a">
-![Tab Collector screenshot](https://github.com/user-attachments/assets/514ead64-8e65-46f0-a5d6-592eafe4ab12a)
+<img alt="Tab Collector screenshot" src="https://github.com/user-attachments/assets/514ead64-8e65-46f0-a5d6-592eae4ab12a">
 
 ## Features
 
